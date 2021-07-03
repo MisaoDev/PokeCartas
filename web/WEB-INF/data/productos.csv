@@ -1,0 +1,105 @@
+id,nombre,descripción,tipo,precio,descuento,stock
+1001,001/102 - Alakazam,Carta Base Set 001/102 - Alakazam,CARTA,9900,0,4
+1002,002/102 - Blastoise,Carta Base Set 002/102 - Blastoise,CARTA,12000,10,12
+1003,003/102 - Chansey,Carta Base Set 003/102 - Chansey,CARTA,2600,0,3
+1004,004/102 - Charizard,Carta Base Set 004/102 - Charizard,CARTA,25000,0,4
+1005,005/102 - Clefairy,Carta Base Set 005/102 - Clefairy,CARTA,1500,0,5
+1006,006/102 - Gyarados,Carta Base Set 006/102 - Gyarados,CARTA,1500,15,4
+1007,007/102 - Hitmonchan,Carta Base Set 007/102 - Hitmonchan,CARTA,3900,0,1
+1008,008/102 - Machamp,Carta Base Set 008/102 - Machamp,CARTA,2100,0,3
+1009,009/102 - Magneton,Carta Base Set 009/102 - Magneton,CARTA,4500,0,4
+1010,010/102 - Mewtwo,Carta Base Set 010/102 - Mewtwo,CARTA,6500,0,5
+1011,011/102 - Nidoking,Carta Base Set 011/102 - Nidoking,CARTA,2400,0,0
+1012,012/102 - Ninetales,Carta Base Set 012/102 - Ninetales,CARTA,1100,10,4
+1013,013/102 - Poliwrath,Carta Base Set 013/102 - Poliwrath,CARTA,4700,15,4
+1014,014/102 - Raichu,Carta Base Set 014/102 - Raichu,CARTA,2600,0,1
+1015,015/102 - Venusaur,Carta Base Set 015/102 - Venusaur,CARTA,17000,0,9
+1016,016/102 - Zapdos,Carta Base Set 016/102 - Zapdos,CARTA,3100,0,0
+1017,017/102 - Beedrill,Carta Base Set 017/102 - Beedrill,CARTA,1800,0,2
+1018,018/102 - Dragonair,Carta Base Set 018/102 - Dragonair,CARTA,1600,15,9
+1019,019/102 - Dugtrio,Carta Base Set 019/102 - Dugtrio,CARTA,3600,0,5
+1020,020/102 - Electabuzz,Carta Base Set 020/102 - Electabuzz,CARTA,2500,0,0
+1021,021/102 - Electrode,Carta Base Set 021/102 - Electrode,CARTA,1800,0,4
+1022,022/102 - Pidgeotto,Carta Base Set 022/102 - Pidgeotto,CARTA,1800,0,5
+1023,023/102 - Arcanine,Carta Base Set 023/102 - Arcanine,CARTA,5500,0,1
+1024,024/102 - Charmeleon,Carta Base Set 024/102 - Charmeleon,CARTA,2300,0,3
+1025,025/102 - Dewgong,Carta Base Set 025/102 - Dewgong,CARTA,7300,15,4
+1026,026/102 - Dratini,Carta Base Set 026/102 - Dratini,CARTA,6400,25,13
+1027,027/102 - Farfetch’d,Carta Base Set 027/102 - Farfetch’d,CARTA,1000,0,3
+1028,028/102 - Growlithe,Carta Base Set 028/102 - Growlithe,CARTA,7500,0,3
+1029,029/102 - Haunter,Carta Base Set 029/102 - Haunter,CARTA,7000,0,3
+1030,030/102 - Ivysaur,Carta Base Set 030/102 - Ivysaur,CARTA,5100,0,18
+1031,031/102 - Jynx,Carta Base Set 031/102 - Jynx,CARTA,7000,0,3
+1032,032/102 - Kadabra,Carta Base Set 032/102 - Kadabra,CARTA,1500,0,3
+1033,033/102 - Kakuna,Carta Base Set 033/102 - Kakuna,CARTA,7100,0,2
+1034,034/102 - Machoke,Carta Base Set 034/102 - Machoke,CARTA,2000,0,3
+1035,035/102 - Magikarp,Carta Base Set 035/102 - Magikarp,CARTA,2200,0,4
+1036,036/102 - Magmar,Carta Base Set 036/102 - Magmar,CARTA,8000,0,3
+1037,037/102 - Nidorino,Carta Base Set 037/102 - Nidorino,CARTA,1300,0,3
+1038,038/102 - Poliwhirl,Carta Base Set 038/102 - Poliwhirl,CARTA,600,20,8
+1039,039/102 - Porygon,Carta Base Set 039/102 - Porygon,CARTA,1800,0,3
+1040,040/102 - Raticate,Carta Base Set 040/102 - Raticate,CARTA,3900,0,0
+1041,041/102 - Seel,Carta Base Set 041/102 - Seel,CARTA,3600,30,15
+1042,042/102 - Wartortle,Carta Base Set 042/102 - Wartortle,CARTA,1300,20,15
+1043,043/102 - Abra,Carta Base Set 043/102 - Abra,CARTA,4900,0,4
+1044,044/102 - Bulbasaur,Carta Base Set 044/102 - Bulbasaur,CARTA,800,0,14
+1045,045/102 - Caterpie,Carta Base Set 045/102 - Caterpie,CARTA,7900,0,3
+1046,046/102 - Charmander,Carta Base Set 046/102 - Charmander,CARTA,8600,0,2
+1047,047/102 - Diglett,Carta Base Set 047/102 - Diglett,CARTA,1700,0,0
+1048,048/102 - Doduo,Carta Base Set 048/102 - Doduo,CARTA,3500,0,6
+1049,049/102 - Drowzee,Carta Base Set 049/102 - Drowzee,CARTA,1500,0,4
+1050,050/102 - Gastly,Carta Base Set 050/102 - Gastly,CARTA,2100,0,3
+1051,051/102 - Koffing,Carta Base Set 051/102 - Koffing,CARTA,2700,0,5
+1052,052/102 - Machop,Carta Base Set 052/102 - Machop,CARTA,2600,0,3
+1053,053/102 - Magnemite,Carta Base Set 053/102 - Magnemite,CARTA,2600,0,5
+1054,054/102 - Metapod,Carta Base Set 054/102 - Metapod,CARTA,2600,0,8
+1055,055/102 - Nidoran ?,Carta Base Set 055/102 - Nidoran ?,CARTA,3100,0,2
+1056,056/102 - Onix,Carta Base Set 056/102 - Onix,CARTA,2000,0,1
+1057,057/102 - Pidgey,Carta Base Set 057/102 - Pidgey,CARTA,4000,0,0
+1058,058/102 - Pikachu,Carta Base Set 058/102 - Pikachu,CARTA,4400,0,5
+1059,059/102 - Poliwag,Carta Base Set 059/102 - Poliwag,CARTA,3300,30,7
+1060,060/102 - Ponyta,Carta Base Set 060/102 - Ponyta,CARTA,7700,0,0
+1061,061/102 - Rattata,Carta Base Set 061/102 - Rattata,CARTA,2600,0,9
+1062,062/102 - Sandshrew,Carta Base Set 062/102 - Sandshrew,CARTA,4100,0,2
+1063,063/102 - Squirtle,Carta Base Set 063/102 - Squirtle,CARTA,2500,30,13
+1064,064/102 - Starmie,Carta Base Set 064/102 - Starmie,CARTA,2000,15,5
+1065,065/102 - Staryu,Carta Base Set 065/102 - Staryu,CARTA,4100,30,15
+1066,066/102 - Tangela,Carta Base Set 066/102 - Tangela,CARTA,2100,0,3
+1067,067/102 - Voltorb,Carta Base Set 067/102 - Voltorb,CARTA,6200,0,1
+1068,068/102 - Vulpix,Carta Base Set 068/102 - Vulpix,CARTA,4000,25,8
+1069,069/102 - Weedle,Carta Base Set 069/102 - Weedle,CARTA,1700,0,2
+1070,070/102 - Clefairy Doll,Carta Base Set 070/102 - Clefairy Doll,CARTA,6000,0,2
+1071,071/102 - Computer Search,Carta Base Set 071/102 - Computer Search,CARTA,7200,0,4
+1072,072/102 - Devolution Spray,Carta Base Set 072/102 - Devolution Spray,CARTA,1500,0,5
+1073,073/102 - Impostor Professor Oak,Carta Base Set 073/102 - Impostor Professor Oak,CARTA,2700,0,5
+1074,074/102 - Item Finder,Carta Base Set 074/102 - Item Finder,CARTA,7800,0,0
+1075,075/102 - Lass,Carta Base Set 075/102 - Lass,CARTA,3800,5,3
+1076,076/102 - Pokémon Breeder,Carta Base Set 076/102 - Pokémon Breeder,CARTA,1200,0,5
+1077,077/102 - Pokémon Trader,Carta Base Set 077/102 - Pokémon Trader,CARTA,5600,0,2
+1078,078/102 - Scoop Up,Carta Base Set 078/102 - Scoop Up,CARTA,700,0,5
+1079,079/102 - Super Energy Removal,Carta Base Set 079/102 - Super Energy Removal,CARTA,2000,0,1
+1080,080/102 - Defender,Carta Base Set 080/102 - Defender,CARTA,1600,0,1
+1081,081/102 - Energy Retrieval,Carta Base Set 081/102 - Energy Retrieval,CARTA,2400,0,4
+1082,082/102 - Full Heal,Carta Base Set 082/102 - Full Heal,CARTA,4300,0,2
+1083,083/102 - Maintenance,Carta Base Set 083/102 - Maintenance,CARTA,1500,0,3
+1084,084/102 - PlusPower,Carta Base Set 084/102 - PlusPower,CARTA,5800,0,2
+1085,085/102 - Pokémon Center,Carta Base Set 085/102 - Pokémon Center,CARTA,1100,0,12
+1086,086/102 - Pokémon Flute,Carta Base Set 086/102 - Pokémon Flute,CARTA,8300,0,5
+1087,087/102 - Pokédex,Carta Base Set 087/102 - Pokédex,CARTA,2900,0,2
+1088,088/102 - Professor Oak,Carta Base Set 088/102 - Professor Oak,CARTA,3400,0,2
+1089,089/102 - Revive,Carta Base Set 089/102 - Revive,CARTA,900,0,5
+1090,090/102 - Super Potion,Carta Base Set 090/102 - Super Potion,CARTA,1800,0,2
+1091,091/102 - Bill,Carta Base Set 091/102 - Bill,CARTA,5700,0,5
+1092,092/102 - Energy Removal,Carta Base Set 092/102 - Energy Removal,CARTA,2700,0,7
+1093,093/102 - Gust of Wind,Carta Base Set 093/102 - Gust of Wind,CARTA,4200,0,5
+1094,094/102 - Potion,Carta Base Set 094/102 - Potion,CARTA,3600,0,20
+1095,095/102 - Switch,Carta Base Set 095/102 - Switch,CARTA,1600,0,1
+1096,096/102 - Double Colorless Energy,Carta Base Set 096/102 - Double Colorless Energy,CARTA,2000,0,19
+1097,097/102 - Fighting Energy,Carta Base Set 097/102 - Fighting Energy,CARTA,300,0,114
+1098,098/102 - Fire Energy,Carta Base Set 098/102 - Fire Energy,CARTA,300,0,85
+1099,099/102 - Grass Energy,Carta Base Set 099/102 - Grass Energy,CARTA,300,0,70
+1100,100/102 - Lightning Energy,Carta Base Set 100/102 - Lightning Energy,CARTA,300,0,89
+1101,101/102 - Psychic Energy,Carta Base Set 101/102 - Psychic Energy,CARTA,300,0,82
+1102,102/102 - Water Energy,Carta Base Set 102/102 - Water Energy,CARTA,300,0,131
+68149,Sobre Base Set,Sobre con 11 cartas del Base Set.,SELLADO,3000,0,44
+75933,Fundas Pikachu,Set de 65 fundas para cartas con diseño de Pikachu.,INSUMO,9000,0,13

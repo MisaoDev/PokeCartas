@@ -1,0 +1,20 @@
+[tecnologías y herramientas usadas]
+
+html
+css
+javascript
+jquery
+bootstrap 4.6
+open iconic
+sass
+java EE/servlets
+JSP EL JSTL
+glassfish server
+
+npm
+auto-prefixer (post-css)
+waifu2x-multi
+NetBeans
+Atom
+Notepad++
+

@@ -1,0 +1,17 @@
+span.discount-label {
+  position: absolute;
+  top: 24px;
+  right: 0;
+  border-radius: 4px 0;
+  width: 70px;
+  line-height: 30px;
+  background-color: #ef8408;
+  color: white;
+  font-weight: bold;
+  font-size: 1.5rem;
+  text-align: center;
+}
+
+.hoverable:hover {
+  background-color: #eee;
+}

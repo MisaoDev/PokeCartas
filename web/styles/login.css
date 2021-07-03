@@ -1,0 +1,121 @@
+/* Las imágenes de fondo del login están embedidas en un CSS para evitar que la carga de las
+   imágenes individuales arruine la transición. */
+@import 'bg-animation.css';
+
+/* Ajustar la navbar para la pantalla de login */
+.navbar {
+  opacity: 0.8;
+  position: absolute !important;
+  width: 100%;
+}
+
+html, body {
+  height: 100%;
+}
+
+.form-signin {
+  width: 100%;
+  max-width: 420px;
+  margin: auto;
+}
+
+#background {
+  background-image: url('../img/bg0.jpg');
+  background-position: center;
+  background-size: cover;
+  height: 100vh;
+  animation: 10s infinite change-bg;
+  animation-delay: 2s;
+}
+
+/*  Custom floating labels from Bootstrap Examples
+====================================================================================*/
+.form-label-group {
+  position: relative;
+  margin-bottom: 1rem;
+}
+
+.form-label-group input,
+.form-label-group label {
+  height: 3.125rem;
+  padding: .75rem;
+}
+
+.form-label-group label {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: block;
+  width: 100%;
+  margin-bottom: 0; /* Override default `<label>` margin */
+  line-height: 1.5;
+  color: #495057;
+  pointer-events: none;
+  cursor: text; /* Match the input under the label */
+  border: 1px solid transparent;
+  border-radius: .25rem;
+  transition: all .1s ease-in-out;
+}
+
+.form-label-group input::-webkit-input-placeholder {
+  color: transparent;
+}
+
+.form-label-group input::-moz-placeholder {
+  color: transparent;
+}
+
+.form-label-group input:-ms-input-placeholder {
+  color: transparent;
+}
+
+.form-label-group input::-ms-input-placeholder {
+  color: transparent;
+}
+
+.form-label-group input::placeholder {
+  color: transparent;
+}
+
+.form-label-group input:not(:-moz-placeholder-shown) {
+  padding-top: 1.25rem;
+  padding-bottom: .25rem;
+}
+
+.form-label-group input:not(:-ms-input-placeholder) {
+  padding-top: 1.25rem;
+  padding-bottom: .25rem;
+}
+
+.form-label-group input:not(:placeholder-shown) {
+  padding-top: 1.25rem;
+  padding-bottom: .25rem;
+}
+
+.form-label-group input:not(:-moz-placeholder-shown) ~ label {
+  padding-top: .25rem;
+  padding-bottom: .25rem;
+  font-size: 12px;
+  color: #777;
+}
+
+.form-label-group input:not(:-ms-input-placeholder) ~ label {
+  padding-top: .25rem;
+  padding-bottom: .25rem;
+  font-size: 12px;
+  color: #777;
+}
+
+.form-label-group input:not(:placeholder-shown) ~ label {
+  padding-top: .25rem;
+  padding-bottom: .25rem;
+  font-size: 12px;
+  color: #777;
+}
+
+.form-label-group input:-webkit-autofill ~ label {
+  padding-top: .25rem;
+  padding-bottom: .25rem;
+  font-size: 12px;
+  color: #777;
+}
